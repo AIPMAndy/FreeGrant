@@ -669,4 +669,4 @@ P0 是优先检查或采取行动，不等于符合资格。P1 需预审、准�
 
 ## 12 / 发布与本地使用
 
-直接打开 `index.html` 即可浏览；亦可运行 `python3 -m http.server 8000`。部署 GitHub Pages 与重建步骤见 [发布指南](docs/PUBLISH.md)。验证文件一致性：`python tests/validate.py`。重建静态站与 PDF：安装 WeasyPrint 后运行 `python build_site.py`（需系统中文字体）。
+直接打开 `index.html` 即可浏览；亦可运行 `python3 -m http.server 8000`。部署 GitHub Pages 与重建步骤见 [发布指南](docs/PUBLISH.md)。验证文件一致性：`python tests/validate.py`。网页提供“打印 / 保存 PDF 攻略”，可一次打印完整政策卡片；离线原始排版 PDF 将单独同步。

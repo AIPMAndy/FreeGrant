@@ -1,0 +1,43 @@
+{
+  "notice": "复制到仓库之外填写；不提交GitHub；null=未核实。不收集身份证/账户号。",
+  "person": {
+    "hukou_city": null,
+    "living_city": null,
+    "employment_status": null,
+    "social_insurance_city": null,
+    "existing_skill_certificates": [],
+    "past_subsidies": []
+  },
+  "company": {
+    "registered_city": null,
+    "registered_district": null,
+    "established_on": null,
+    "actual_operation_city": null,
+    "staff_count": null,
+    "eligible_employees_social_insurance_months": null,
+    "annual_revenue": null,
+    "annual_rd_expense": null,
+    "rd_staff_ratio": null,
+    "intellectual_property": [],
+    "prior_awards": []
+  },
+  "sole_proprietor": {
+    "registered_city": null,
+    "registered_district": null,
+    "established_on": null,
+    "actual_operation_city": null,
+    "same_owner_as_company": null,
+    "prior_awards": []
+  },
+  "family": {
+    "eligible_child_under_3": null,
+    "child_hukou_city": null,
+    "child_subsidy_claimed_current_year": null,
+    "birth_insurance_claim_status": null
+  },
+  "technical_assets": {
+    "open_source_projects": [],
+    "paying_customer_count": null,
+    "verified_technical_experience_years": null
+  }
+}

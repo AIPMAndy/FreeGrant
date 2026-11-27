@@ -1,0 +1,5 @@
+profile.local.json
+*.private.*
+private/
+.env
+__pycache__/

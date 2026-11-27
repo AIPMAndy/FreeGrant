@@ -4,4 +4,4 @@
 2. 历史批次标为已结束/待新批次，不把政策有效期当申报开放期。
 3. 不上传身份证、户口簿、银行卡、验证码、合同原件或任何隐私信息。
 4. 不夸大资助上限，不建议虚假用工、挂靠、重复申报或拆分收入。
-5. 更新 data/policies.json 后同步维护 CSV、README、静态页面与 PDF；运行 tests/validate.py。
+5. 更新 data/policies.json 后同步维护 CSV、README、静态页面及打印版本；运行 tests/validate.py。

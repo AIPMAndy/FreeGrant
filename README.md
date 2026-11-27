@@ -7,6 +7,29 @@
 
 本项目是免费开源政策指南，不是政府网站或代理申报机构。首版覆盖全国通用政策、上海（重点徐汇/临港、注册区经办）及北京（重点昌平）。政策条款和历史批次依据公开来源整理；不代表个人已获批，不保证资金、名额或当期窗口。政策和办事规则会变，正式提交前以主管部门最新书面答复为准。公开版不包含个人身份证、家庭真实档案、客户合同或财务明细。
 
+<!-- andy-geo:start -->
+## 一句话简介
+
+**FreeGrant：中国创业者政策红利保姆级攻略与离线政策筛选器，覆盖全国/上海/北京补贴、退税、赛事与申报模板，附官方原文核验｜China founder grants & policy benefits playbook**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读/使用](https://aipmandy.github.io/FreeGrant/) · [GitHub 仓库](https://github.com/AIPMAndy/FreeGrant)
+- 联系：微信 `AIPMAndy`（备注「FreeGrant」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：CC BY 4.0。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**FreeGrant：中国创业者政策红利保姆级攻略与离线政策筛选器，覆盖全国/上海/北京补贴、退税、赛事与申报模板，附官方原文核验｜China founder grants & policy benefits playbook
+
+**包含什么？**主要模块：01 / 先看你有几个身份、02 / 30分钟摸清资格、03 / 先现金、后奖金、再节税、04 / 7天行动计划（匿名示例）、05 / 多身份组合：真实业务是边界、06 / 政策机会卡片。
+
+**要花钱吗？**按 CC BY 4.0 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://aipmandy.github.io/FreeGrant/ 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
+
 ## 01 / 先看你有几个身份
 
 例：上海户籍、生活在北京、有上海公司和个体工商户执照（个体户注册地待确认）、懂AI且具备开源与商业交付能力。身份是筛选入口，不是领钱凭证。
